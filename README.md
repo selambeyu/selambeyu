@@ -2,10 +2,8 @@
 - 👀 I’m interested in Machine learning
 - 📫 How to reach me Email:-melkam3392beyu@gmail.com
 
-
-START_SECTION:waka
-
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!---

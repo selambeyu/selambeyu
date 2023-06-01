@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Melkam Beyene
-- 👀 I’m interested in Machine learning
+- 👀 I’m interested in Machine learning And AI
 - 📫 How to reach me Email:-melkam3392beyu@gmail.com
 
 

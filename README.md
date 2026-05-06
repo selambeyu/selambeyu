@@ -2,9 +2,6 @@
 - 👀 I’m interested in Machine learning And AI
 - 📫 How to reach me Email:-melkam3392beyu@gmail.com
 
-- [![GitHub Streak](https://streak-stats.demolab.com?user=selambeyu)](https://git.io/streak-stats)
-
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
